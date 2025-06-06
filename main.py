@@ -1,5 +1,3 @@
-# main.py
-
 import torch
 from model import MCDModel
 from train import train_model

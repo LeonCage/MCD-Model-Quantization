@@ -1,5 +1,6 @@
 import torch
 from model import MCDModel
+from src.train import train_model
 from evaluate import evaluate_model
 from data_loader import get_data_loaders
 

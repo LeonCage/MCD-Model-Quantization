@@ -1,7 +1,3 @@
-# MCD-Model-Quantization
-PyTorch project for pruning anfd quantization of MCD model with evaluation and sensitivity analysis
-
-
 # MCD Model Quantization and Pruning
 
 This repository contains code for fine-tuning, pruning, and quantizing a Multi-Column Deep (MCD) neural network model using PyTorch. It includes model evaluation, size comparison, and layer-wise sensitivity analysis with detailed visualizations.
